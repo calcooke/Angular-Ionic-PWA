@@ -1,6 +1,6 @@
 {
-  "appId": "io.ionic.starter",
-  "appName": "ionicPWA",
+  "appId": "io.ionic.pwa",
+  "appName": "ionic PWA",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
